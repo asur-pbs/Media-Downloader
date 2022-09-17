@@ -1,5 +1,17 @@
 ## How to use
+
+### Make it for ready to use
+
 Download the script from <a href="https://github.com/asur-pbs/Media-Downloader/releases">release</a> section. Unzip it in anywhere. Installed the <a href="https://github.com/asur-pbs/Media-Downloader#install-requirments">requirements</a>. Run it.
+
+### Use
+
+To download social-media video , you can copy link by share link. But to download other sites videos you must find the link of the video. You can use browser extensions or developer tools for finding video url. To download drm protected videos , you must find the video url & decryption keys.
+Note that we doesn't provide how you can get decryption keys.
+                                                               After you get video url & other things, you can open script and choose which type of video url you have. After you can download video easily with providing video url & your simple inputs.
+                                                               
+                                                               
+I recommend you to use <a href="https://chrome.google.com/webstore/detail/mpd-detector/lpoohbdbmggiknlpcmhhdkpaclfcdapk">.MPD Detector</a>, <a href="https://chrome.google.com/webstore/detail/live-cat/cofmpiaddiioohphmmgjnbcpfoiknnkh">Live Cat</a> & <a href="https://microsoftedge.microsoft.com/addons/detail/video-downloadhelper/jmkaglaafmhbcpleggkmaliipiilhldn">Video DownlaodHelper</a> extensions for grabbing video url.
 
 ## Requirments
 
