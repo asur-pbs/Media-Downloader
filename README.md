@@ -23,7 +23,7 @@ choco install ffmpeg
 choco install yt-dlp
 ```
 
-4. Install python<a href="https://www.python.org">python</a>
+4. Install <a href="https://www.python.org">python</a>
 
 ```sh
 choco install python
