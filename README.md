@@ -49,3 +49,11 @@ choco install python
 ```sh
 pip install spotdl
 ```
+
+## What can you download by that?
+
+* Spotify songs [wav/opus/m4a/ogg/mp3/flac]
+* Any social media videos.
+* More website's videos
+* DRM Protected videos
+* Zoom recorded videos
