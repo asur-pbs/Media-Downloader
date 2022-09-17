@@ -1,5 +1,5 @@
 ## How to use
-Download the script from release section. Unzip it in anywhere. Installed the beloq requirements. Run it.
+Download the script from <a href="https://github.com/asur-pbs/Media-Downloader/releases">release</a> section. Unzip it in anywhere. Installed the below requirements. Run it.
 
 ## Install requirments
 
