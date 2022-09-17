@@ -1,3 +1,6 @@
+## How to use
+Download the script from release section. Unzip it in anywhere. Installed the beloq requirements. Run it.
+
 ## Install requirments
 
 Are you already installed below softwares, you can skip Install requirments
@@ -8,19 +11,19 @@ Are you already installed below softwares, you can skip Install requirments
 Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
 ```
 
-2. Install ffmpeg
+2. Install <a href="https://ffmpeg.org">ffmpeg</a>
 
 ```sh
 choco install ffmpeg
 ```
 
-3. Install yt-dlp
+3. Install <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>
 
 ```sh
 choco install yt-dlp
 ```
 
-4. Install python
+4. Install python<a href="https://www.python.org">python</a>
 
 ```sh
 choco install python
@@ -28,9 +31,7 @@ choco install python
 
 5. Next exit current powershell window & run command prompt as admin. in new window.
 
+6. Install <a href="https://github.com/spotDL/spotify-downloader">spotdl</a>
 ```sh
 pip install spotdl
 ```
-
-##
-
