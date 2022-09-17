@@ -29,7 +29,7 @@ choco install yt-dlp
 choco install python
 ```
 
-5. Next exit current powershell window & run command prompt as admin. in new window.
+5. Next exit current powershell window & open command prompt.
 
 6. Install <a href="https://github.com/spotDL/spotify-downloader">spotdl</a>
 ```sh
