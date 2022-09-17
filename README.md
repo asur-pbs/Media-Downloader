@@ -1,4 +1,4 @@
-### For preview, <a href="https://github.com/asur-pbs/Media-Downloader">visit here</a>.
+### For preview, <a href="https://github.com/asur-pbs/Media-Downloader/tree/main/screenshots">visit here</a>.
 
 ## How to use
 
